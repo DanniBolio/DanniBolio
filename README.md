@@ -1,37 +1,29 @@
 <h1 align="center">
-  ¡Hola!, Soy Daniel Bolio 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+¡Hola!, Soy Daniel Bolio 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Bienvendo+a+mi+GitHub;Estoy+aprendiendo+progrmación;Soy+gamer;Y+me+gusta+aprender+cosas+nuevas..." />
-  </a>
-</p>
-
 <br>
 
 <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 </picture> 
 <b>SOBRE MI</b>
-
+<br>
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
 <br>
 
-Soy Diseñador UX/UI 🎨 con experiencia profesional en la creación de interfaces web y productos digitales. 
+Soy Diseñador UX/UI 🎨 con experiencia profesional en la creación de interfaces web y productos digitales.  
 He trabajado de cerca con equipos de desarrollo 💻, lo que me llevó a interesarme cada vez más por el lado técnico de los proyectos.
 
 <br>
 
-Actualmente estoy fortaleciendo mis habilidades en frontend con HTML, CSS y JavaScript 🚀, 
-buscando integrar diseño y código para construir experiencias completas, funcionales y bien pensadas.<br>
+Actualmente estoy fortaleciendo mis habilidades en frontend con HTML, CSS y JavaScript 🚀, buscando integrar diseño y código para construir experiencias completas, funcionales y bien pensadas.  
 Me interesa entender cómo se ve un producto… pero también cómo funciona por dentro ⚙️.
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Habilidades
 
@@ -51,7 +43,7 @@ Me interesa entender cómo se ve un producto… pero también cómo funciona por
 
 #### 🖥️ En curso
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) (En proceso)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) (En proceso)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) (Siguiente)
 
 #### 🔧 Herramientas
@@ -59,6 +51,8 @@ Me interesa entender cómo se ve un producto… pero también cómo funciona por
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
 
 ## 🐍 Una serpiente devorando mis contribuciones
 

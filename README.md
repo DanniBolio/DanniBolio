@@ -43,8 +43,9 @@ Me interesa entender cómo se ve un producto… pero también cómo funciona por
 
 #### 🖥️ En curso
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) (En proceso)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) (Siguiente)
+![JavaScript - En proceso](https://img.shields.io/badge/JavaScript-En%20proceso-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React - Próximamente](https://img.shields.io/badge/React-Pr%C3%B3ximamente-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 #### 🔧 Herramientas
 

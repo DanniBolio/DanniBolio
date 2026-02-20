@@ -55,8 +55,6 @@ Me interesa entender cómo se ve un producto… pero también cómo funciona por
 
 ---
 
-## 🐍 Una serpiente devorando mis contribuciones
-
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
